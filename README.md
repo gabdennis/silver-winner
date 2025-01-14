@@ -1,1 +1,1 @@
-# silver-winner
+# Renewable Energy Interactive Map
