@@ -7,5 +7,8 @@
 Total primary energy supply (TPES) = Production + Imports – Exports + Stock changes
 ```
 Moving water is by far the most important form of renewable energy source in Canada, providing 61.7 percent of Canada’s electricity generation in 2022 with Canada being the 3rd largest producer of hydroelectricity in the world.
+## The Renewable Energy Universe
+![The Renewable Energy Universe](https://github.com/gabdennis/silver-winner/blob/972f6e37ec3d161211f5a3e49f558ace66c818b2/About%20renewable%20energy%20-%20Icons%20(EN)(1).jpg)
 
-![The Renewable Energy Universe]()
+#### Note
+The dataset used for this project is not regularly updated and may therefore not accurately represent the full scope of renewable energy in Canada over time.
